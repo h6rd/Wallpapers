@@ -2,9 +2,7 @@ Android Wallpaper App
 Support Material You theme
 
 Preview
-![alt text](https://github.com/h6rd/screens/blob/main/All.png)
-
-![alt text](https://github.com/h6rd/screens/blob/main/one.png)
+![alt text](https://github.com/h6rd/screens/blob/main/prev.png?raw=true)
 
 
 EN
