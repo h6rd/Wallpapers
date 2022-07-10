@@ -7,7 +7,6 @@ Preview
 ![alt text](https://github.com/h6rd/screens/blob/main/one.png)
 
 
-Change Items
 EN
 To change the wallpaper, you must prepare the images and put them in the folder "res/drawable" under the names from screen to screen(your number),
 and put them in "app/com.example.wallpapers/view/WallPaperActivity.kt"
